@@ -26,36 +26,49 @@ Decision Tree
 🚀 How to Run (Locally):
 Clone this repo
 
-bash
-Copy
-Edit
+
 git clone https://github.com/PreethiDataScience/Cervical-cancer-Prediction.git
 cd Cervical-cancer-Prediction
 Install required libraries
 
-bash
-Copy
-Edit
+
 pip install -r requirements.txt
 Run the app
 
-bash
-Copy
-Edit
+
 streamlit run app.py
-🔗 Live Demo:
-👉 Try the App Here
-(Hosted via Streamlit Cloud)
+🌐 Live Demo:
+👉 Try the App Live Here:
+🔗 https://cervical-cancer-prediction-wfuafjjiu3tbdazsvwgvwk.streamlit.app
+
+☁️ Streamlit Cloud Deployment Steps:
+Go to https://streamlit.io/cloud
+
+Sign in using your GitHub account
+
+Click "New App"
+
+Choose:
+
+Repository: PreethiDataScience/Cervical-cancer-Prediction
+
+Branch: main
+
+App file: app.py
+
+Click Deploy 🚀
+
+Your app will go live in a few seconds!
 
 📁 Dataset:
-You can upload your cervical cancer dataset in .csv format using the upload option.
-Make sure your dataset follows the expected structure.
+Upload a cervical cancer dataset (.csv) via the app to generate predictions.
+Make sure the structure matches the expected features.
 
 ⚠️ Disclaimer:
-This tool is for educational/demo purposes only and is not a substitute for medical advice.
-Please consult healthcare professionals for any concerns.
+This tool is for educational/demo purposes only and is not a substitute for professional medical advice.
+Always consult a licensed medical practitioner for health-related issues.
 
 💕 Author:
 Preethi Sherine – Passionate about data science and healthcare AI
 
-GitHub: @PreethiDataScience
+💻 GitHub: @PreethiDataScience
